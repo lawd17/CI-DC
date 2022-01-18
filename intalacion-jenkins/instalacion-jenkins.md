@@ -92,7 +92,7 @@ Este paso es opcional y explica como crear un dominio para acceder a Jenkins. El
 sudo nano /etc/hosts 
 ```
 
-![09-etc-hosts](capturas/01-tree.PNG)
+![09-etc-hosts](capturas/09-etc-hosts.png)
 
 
 Luego vamos a “/etc/apache2/site-available” y crear el fichero “.conf” de nuestro dominio.
