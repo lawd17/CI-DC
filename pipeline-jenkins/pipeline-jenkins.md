@@ -42,7 +42,8 @@ Ahora vamos a proceder con la creación de las pipeline de los lenguaje, esto lo
 ![01-nueva-tarea](capturas/01-nueva-tarea.PNG)
 
 
-**Maven**
+### Maven
+
 Introducimos el nombre y el tipo Pipeline.
 
 ![02-maven-pipeline01](capturas/02-maven-pipeline01.PNG)
@@ -57,7 +58,7 @@ Tras guardar pinchamos en "Construir ahora" y al terminar en la misma pagina ver
 
 ![02-maven-pipeline04](capturas/02-maven-pipeline04.PNG)
 
-**Rubi**
+### Rubi
 Seguimos los mismos pasos ya descritos.
 
 Introducir el nombre.
@@ -74,7 +75,7 @@ Construcción y finalización.
 
 ![03-rubi-pipeline04](capturas/03-rubi-pipeline04.PNG)
 
-**Node**
+### Node
 Introducir el nombre.
 
 ![04-node-pipeline01](capturas/04-node-pipeline01.PNG)
@@ -90,7 +91,7 @@ Construcción y finalización.
 ![04-node-pipeline04](capturas/04-node-pipeline04.PNG)
 
 
-**Python**
+### Python
 
 Introducir nombre.
 
@@ -106,7 +107,7 @@ Construcción y finalización.
 
 ![05-python-pipeline04](capturas/05-python-pipeline04.PNG)
 
-**PHP**
+### PHP
 
 Introducir nombre.
 
@@ -122,7 +123,7 @@ Construcción y finalización.
 
 ![06-php-pipeline04](capturas/06-php-pipeline04.PNG)
 
-**Go**
+### Go
 
 Introducir nombre.
 
