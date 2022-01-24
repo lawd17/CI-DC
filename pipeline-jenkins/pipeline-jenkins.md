@@ -1,7 +1,7 @@
 
 # Pipeline en Jenkins.
 
-![Logo-pipeline-Jenkins](capturas/logo-pipeline-jenkins.jpg)
+![logo-pipeline-jenkins](capturas/logo-pipeline-jenkins.png)
 
 ## 1. Introducción.
 
