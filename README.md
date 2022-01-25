@@ -9,3 +9,5 @@ En este repositorio se realizaran guias de integración continua (IC) y desplieg
 ## 3 [Guía 03 - Pipeline en Jenkins](pipeline-jenkins/pipeline-jenkins.md)
 
 ## 4 [Guía 04 - Creación de Pipeline en PHP y Apache](pipeline-jenkins-php/pipeline-php.md)
+
+## 5 [Guía 05 - Creación de Pipeline en Java](pipeline-java-tomcat/pipeline-java-tomcat.md)
